@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Bboofs
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+Funny bit is that I'm too lazy to edit this Readme into something perfect, but then again, here I am. If I were writing using a pen I would call it scribbling, that's the height I've reached.
+
+I know you'll think I'm not serious, but this is my level of seriousness as far as regards this
+<!---
+Bboofs/Bboofs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
